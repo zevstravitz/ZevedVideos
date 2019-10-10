@@ -7,4 +7,4 @@ Some other links:
 * [Zeved Clips](https://www.youtube.com/channel/UCAqd9mfuA6qM0M-ixJHGAZw)
 
 
-I will put the code to my videos if people express they want to see it.
+I will put up the code used to make the animations if people express they would like to see it.
