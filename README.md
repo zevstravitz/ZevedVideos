@@ -13,7 +13,7 @@ Some Notes:
 ## Foundations of Data Structures and Algorithms
 * [Object-oriented Programming](https://www.youtube.com/watch?v=9SHbthUnUvA)
 * [Analysis of Algorithms](https://www.youtube.com/watch?v=zyCy6JYy9SQ)
-* Recursion
+* [Recursion](https://youtu.be/4UKsiuYnkRw)
 * Array-based Sequences
 * Linked Lists
 * Stacks, Queues, Deques
